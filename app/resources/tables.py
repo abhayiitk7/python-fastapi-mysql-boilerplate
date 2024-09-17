@@ -1,0 +1,1 @@
+EXAMPLE_TABLE_NAME = 'example_table_name'
